@@ -1,5 +1,5 @@
 IP: 158.160.84.82;
-name_taski: https://taaa-shaaa.freedynamicdns.net/;
-name_kittygram: https://taa-shaa.ddnsking.com/;
+name_taski: https://taaa-shaaa.freedynamicdns.net;
+name_kittygram: https://taa-shaa.ddnsking.com;
 login: yc-user;
 password: JlOv3bJ-5z;
